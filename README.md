@@ -1,3 +1,7 @@
 # CRUD Application using Vue, Express & Supabase
 
-Author: Criza Fe B. Liquigan
+Authors:
+Criza Fe B. Liquigan
+Maribel P. Bagiw
+Princess Ailama O. Valmores
+Drexelle Jazteen F. Magbual
